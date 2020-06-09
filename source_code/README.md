@@ -1,3 +1,3 @@
-執行方法:
-1.javac *.java
+執行方法: <br />
+1.javac *.java <br />
 2.java Project
